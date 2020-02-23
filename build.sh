@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker build -t gtop .
+docker build -t future731/gtop .

@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker run --rm -it gtop
+docker run --rm -it future731/gtop
